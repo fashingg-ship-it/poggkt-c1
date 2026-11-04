@@ -1,5 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="Foot">
-  <path d="M70 42c28 18 48 48 54 78" fill="none" stroke="#a9c4d6" stroke-width="30" stroke-linecap="round"/>
-  <path d="M108 112c8 20 36 34 86 30 32-2 52-16 56-30 2-10-10-14-18-8-4 10-22 12-36 6 6-12 2-18-8-18-8 10-24 10-34 2 4-10-2-16-12-14-12 8-24 4-32-2-8-6-14 8-2 34z" fill="#a9c4d6"/>
-  <ellipse cx="132" cy="108" rx="34" ry="24" fill="#1b5f8c"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 0 264 164" role="img" aria-label="Foot">
+  <path d="M58 22c42 40 68 78 74 112" fill="none" stroke="#c5d7e4" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="124" cy="132" r="22" fill="#c5d7e4"/>
+  <rect x="132" y="116" width="118" height="34" rx="17" fill="#c5d7e4"/>
+  <path d="M168 116c8-22 36-30 64-22 16 5 26 10 34 18v4h-98z" fill="#c5d7e4"/>
+  <rect x="236" y="78" width="15" height="40" rx="7.5" fill="#c5d7e4"/>
+  <rect x="254" y="90" width="13" height="32" rx="6.5" fill="#c5d7e4"/>
+  <rect x="270" y="102" width="12" height="24" rx="6" fill="#c5d7e4"/>
+  <ellipse cx="128" cy="108" rx="28" ry="20" fill="#1b5f8c"/>
+  <rect x="104" y="104" width="48" height="8" rx="4" transform="rotate(-18 128 108)" fill="#15496c"/>
 </svg>

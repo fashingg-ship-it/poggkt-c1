@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="Hip">
-  <circle cx="72" cy="62" r="16" fill="#a9c4d6"/>
-  <path d="M88 70h118" stroke="#a9c4d6" stroke-width="34" stroke-linecap="round"/>
-  <path d="M198 74c24 6 42 28 34 50" fill="none" stroke="#a9c4d6" stroke-width="26" stroke-linecap="round"/>
-  <rect x="146" y="46" width="62" height="70" rx="18" fill="#1b5f8c"/>
-  <rect x="118" y="78" width="86" height="11" rx="5.5" fill="#1b5f8c"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="24 44 272 114" role="img" aria-label="Hip">
+  <rect x="36" y="132" width="248" height="12" rx="6" fill="#d5e3ec"/>
+  <circle cx="62" cy="86" r="16" fill="#c5d7e4"/>
+  <rect x="78" y="70" width="132" height="40" rx="20" fill="#c5d7e4"/>
+  <rect x="196" y="90" width="30" height="56" rx="15" fill="#c5d7e4"/>
+  <rect x="158" y="52" width="62" height="74" rx="18" fill="#1b5f8c"/>
+  <rect x="86" y="86" width="146" height="9" rx="4.5" fill="#15496c"/>
 </svg>
