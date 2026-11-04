@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="Knee">
+  <path d="M36 58h78c22 0 34 18 44 40l16 34c10 18 30 26 58 24" fill="none" stroke="#a9c4d6" stroke-width="30" stroke-linecap="round"/>
+  <rect x="112" y="58" width="78" height="82" rx="24" fill="#1b5f8c"/>
+  <rect x="100" y="70" width="102" height="11" rx="5.5" fill="#1b5f8c"/>
+  <rect x="100" y="116" width="102" height="11" rx="5.5" fill="#1b5f8c"/>
+</svg>
