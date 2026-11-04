@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Foot pad around the ankle and heel, toes outside, leg raised">
+  <rect width="640" height="360" rx="24" fill="#e8eef3"/>
+  <path d="M120 230c80-10 160-80 220-80h70" fill="none" stroke="#a9c4d6" stroke-width="34" stroke-linecap="round"/>
+  <path d="M410 150c30 10 50 40 48 70" fill="none" stroke="#a9c4d6" stroke-width="28" stroke-linecap="round"/>
+  <path d="M330 120h120v70h-80c-30 0-50-20-40-50z" fill="#1b5f8c"/>
+  <circle cx="470" cy="230" r="10" fill="#1b5f8c"/>
+  <circle cx="492" cy="222" r="8" fill="#1b5f8c"/>
+  <text x="120" y="100" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="18" font-weight="700">leg raised</text>
+  <text x="430" y="300" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="18" font-weight="700">toes out</text>
+</svg>

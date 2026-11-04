@@ -1,0 +1,7 @@
+{
+  "name": "poggkt-c1-support",
+  "private": true,
+  "scripts": {
+    "preview": "python -m http.server 5174"
+  }
+}

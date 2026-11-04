@@ -1,0 +1,3 @@
+# 使用视频二维码的网站根地址。丝印之后不要改这一行，也不要重生成使用说明二维码。
+# 仓库名必须是 poggkt-c1，Pages 才会和码里的网址一致。
+https://fashingg-ship-it.github.io/poggkt-c1/

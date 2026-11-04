@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Shoulder pad, chest strap, upper-arm strap, tube in front">
+  <rect width="640" height="360" rx="24" fill="#e8eef3"/>
+  <circle cx="300" cy="78" r="28" fill="#a9c4d6"/>
+  <rect x="250" y="108" width="120" height="170" rx="30" fill="#a9c4d6"/>
+  <rect x="214" y="118" width="36" height="120" rx="16" fill="#a9c4d6"/>
+  <path d="M250 118c40-36 110-36 150 8v70H250z" fill="#1b5f8c"/>
+  <rect x="188" y="168" width="200" height="16" rx="8" fill="#1b5f8c"/>
+  <rect x="196" y="150" width="16" height="70" rx="8" fill="#1b5f8c"/>
+  <path d="M300 188v80" stroke="#e4edf3" stroke-width="10" stroke-linecap="round"/>
+  <text x="400" y="150" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="18" font-weight="700">chest strap</text>
+  <text x="400" y="210" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="18" font-weight="700">tube in front</text>
+</svg>

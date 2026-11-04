@@ -1,0 +1,7 @@
+These URLs are encoded inside the PNG files (for silk print verification).
+
+qr-entry-guide-20261104已确认发丝印厂.png (opens Quick start; choose Knee, Shoulder, Hip, or Foot on the page)
+  https://fashingg-ship-it.github.io/poggkt-c1/?entry=guide
+
+qr-entry-support-20261104已确认发丝印厂.png (opens the Google Form directly)
+  https://docs.google.com/forms/d/e/1FAIpQLScr0gxrr6-Jwe6Fi-ltGkogUpnU8SG8mFWqyLX3xFqnvpHAoQ/viewform?hl=en

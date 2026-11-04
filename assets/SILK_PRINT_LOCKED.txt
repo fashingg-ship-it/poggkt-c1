@@ -1,0 +1,28 @@
+SILK PRINT LOCKED — DO NOT OVERWRITE
+====================================
+
+Locked 2026-11-04. These two PNGs are the silk-print masters.
+Do NOT regenerate or replace them. Printed packs scan these exact codes.
+
+  qr-entry-guide-20261104已确认发丝印厂.png
+  qr-entry-support-20261104已确认发丝印厂.png
+
+Both are QR version 10, error correction H, 910×910 px, same module size.
+
+Locked URLs inside the PNGs:
+
+  Guide   https://fashingg-ship-it.github.io/poggkt-c1/?entry=guide
+  Support https://docs.google.com/forms/d/e/1FAIpQLScr0gxrr6-Jwe6Fi-ltGkogUpnU8SG8mFWqyLX3xFqnvpHAoQ/viewform?hl=en
+
+Safe to change without reprinting:
+  - Quick start page copy, steps, and YouTube links in index.html
+    (GitHub Pages path must stay poggkt-c1 on fashingg-ship-it)
+  - Text and questions on this same Google Form
+
+Requires a reprint:
+  - A different website address or a different form link
+  - Running: python generate_qr_pngs.py --force
+
+To unlock only when products will be reprinted:
+  1. Delete this file: assets/SILK_PRINT_LOCKED.txt
+  2. Or run: python generate_qr_pngs.py --force

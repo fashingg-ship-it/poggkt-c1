@@ -1,0 +1,44 @@
+POGGKT 两个丝印二维码
+====================
+
+四个部位共用这一对码。冷敷桶是同一只，不要按膝、肩、髋、足各做一套。
+部位在网页上选，不写进二维码。
+
+码 ① 使用视频  Scan for How-To Video
+  文件：assets/qr-entry-guide-20261104已确认发丝印厂.png
+  扫开：GitHub Pages 的 Quick start（网址带 ?entry=guide）
+  印完之后：可以改 index.html 里的文案、步骤、YouTube 链接，再 push。码不用重印。
+  不能改：site-base-url.txt 里的仓库地址。改了就要重印。
+
+码 ② 售后  Scan for Support
+  文件：assets/qr-entry-support-20261104已确认发丝印厂.png
+  扫开：新建的 Google 表单（直连，不经过网站）
+  印完之后：只能改表单里的题目和说明。
+  不能改：support-qr-url.txt 里的表单链接。换表单就要重印。
+
+当前状态
+--------
+2026-11-04 已锁定，交给丝印厂。
+两张图都是 910×910，版本 10，纠错 H。
+锁定文件：assets/SILK_PRINT_LOCKED.txt
+生成脚本和「生成二维码图片.bat」都会拒绝覆盖。
+
+印厂
+----
+英文就印这两句：Scan for How-To Video 、Scan for Support。
+黑白，不要在码中间加 logo，白边不要裁。
+码体不要小于 15×15 mm。印在桶身侧面或桶盖内侧，不要印外箱。
+交给印厂之前，用手机把两张 PNG 都扫一遍。
+
+锁定
+----
+已锁定。生成脚本会拒绝覆盖。只有确定重印时才用：
+  python generate_qr_pngs.py --force
+
+上线
+----
+仓库名用 poggkt-c1，账号用现在的 fashingg-ship-it。
+Settings → Pages → main 分支、根目录。
+上线地址必须是：
+  https://fashingg-ship-it.github.io/poggkt-c1/
+视频码里写的就是这个地址加上 ?entry=guide。

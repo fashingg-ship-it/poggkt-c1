@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Ice or frozen bottles in the tank, below the MAX line">
+  <rect width="640" height="360" rx="24" fill="#e8eef3"/>
+  <rect x="210" y="48" width="220" height="28" rx="8" fill="#1b5f8c"/>
+  <rect x="196" y="78" width="248" height="230" rx="18" fill="#1b5f8c"/>
+  <rect x="214" y="96" width="212" height="194" rx="10" fill="#e4edf3"/>
+  <path d="M214 188h212v92a10 10 0 0 1-10 10H224a10 10 0 0 1-10-10z" fill="#a9c4d6"/>
+  <rect x="236" y="128" width="36" height="28" rx="4" fill="#fff" stroke="#1b5f8c" stroke-width="3"/>
+  <rect x="284" y="140" width="36" height="28" rx="4" fill="#fff" stroke="#1b5f8c" stroke-width="3"/>
+  <rect x="368" y="118" width="34" height="78" rx="8" fill="#f4f8fb" stroke="#1b5f8c" stroke-width="3"/>
+  <line x1="214" y1="168" x2="426" y2="168" stroke="#1b5f8c" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="436" y="174" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="18" font-weight="700">MAX</text>
+  <circle cx="320" cy="250" r="16" fill="#1b5f8c"/>
+  <text x="214" y="340" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="18" font-weight="700">pump stays under the water</text>
+</svg>

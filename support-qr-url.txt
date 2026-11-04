@@ -1,0 +1,6 @@
+# 售后二维码直接打开的 Google 表单 viewform 链接。
+# 新建表单后，把链接单独写在下面一行（不要以 # 开头）。
+# 还没有链接时，脚本不会生成售后二维码，避免印错。
+# 建表步骤见 google-form-setup.txt
+# 不要复用旧冷敷机那张已经丝印过的表单。
+https://docs.google.com/forms/d/e/1FAIpQLScr0gxrr6-Jwe6Fi-ltGkogUpnU8SG8mFWqyLX3xFqnvpHAoQ/viewform?hl=en

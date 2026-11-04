@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Knee pad over the kneecap, straps on the thigh and calf, tube to the side">
+  <rect width="640" height="360" rx="24" fill="#e8eef3"/>
+  <path d="M80 210h150l40-70 40 70h150" fill="none" stroke="#a9c4d6" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="248" y="118" width="120" height="150" rx="28" fill="#1b5f8c"/>
+  <rect x="230" y="132" width="156" height="16" rx="8" fill="#1b5f8c"/>
+  <rect x="230" y="236" width="156" height="16" rx="8" fill="#1b5f8c"/>
+  <path d="M368 190h90" stroke="#a9c4d6" stroke-width="10" stroke-linecap="round"/>
+  <text x="168" y="80" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="18" font-weight="700">thigh strap</text>
+  <text x="168" y="320" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="18" font-weight="700">calf strap</text>
+  <text x="430" y="184" fill="#1b5f8c" font-family="Arial, sans-serif" font-size="16">tube to the side</text>
+</svg>
