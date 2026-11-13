@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 0 264 164" role="img" aria-label="Foot">
-  <path d="M58 22c42 40 68 78 74 112" fill="none" stroke="#c5d7e4" stroke-width="34" stroke-linecap="round"/>
-  <circle cx="124" cy="132" r="22" fill="#c5d7e4"/>
-  <rect x="132" y="116" width="118" height="34" rx="17" fill="#c5d7e4"/>
-  <path d="M168 116c8-22 36-30 64-22 16 5 26 10 34 18v4h-98z" fill="#c5d7e4"/>
-  <rect x="236" y="78" width="15" height="40" rx="7.5" fill="#c5d7e4"/>
-  <rect x="254" y="90" width="13" height="32" rx="6.5" fill="#c5d7e4"/>
-  <rect x="270" y="102" width="12" height="24" rx="6" fill="#c5d7e4"/>
-  <ellipse cx="128" cy="108" rx="28" ry="20" fill="#1b5f8c"/>
-  <rect x="104" y="104" width="48" height="8" rx="4" transform="rotate(-18 128 108)" fill="#15496c"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="Foot">
+  <path d="M100 30v104" fill="none" stroke="#c4d6e2" stroke-width="46" stroke-linecap="round"/>
+  <path d="M77 124h46c34 6 74 20 82 40 5 13-4 22-18 22H90c-13 0-18-10-16-26z" fill="#c4d6e2"/>
+  <path d="M100 94v62h50" fill="none" stroke="#1b5f8c" stroke-width="64" stroke-linejoin="round"/>
+  <g fill="none" stroke="#113d5c" stroke-width="10" stroke-linecap="round">
+    <path d="M66 112h68"/>
+    <path d="M138 126v62"/>
+  </g>
 </svg>

@@ -3,8 +3,26 @@
 双击「预览.bat」，浏览器打开：
   http://127.0.0.1:5174/?entry=guide
 
-选 Knee、Shoulder、Hip、Foot and ankle，第 3 步和 Fit 会换成该部位的句子。
-四个部位的 YouTube 还是空的。视频拍好后，把链接填进 index.html 里的 CONFIG.VIDEOS，再 push。二维码不用重印。
+首页选 Knee、Shoulder、Hip、Foot，进入该部位的四步说明。
+
+填视频和实拍图
+--------
+只改一个文件：how-to/media.js。改完 push，二维码不用重印。
+
+1. 部位主视频（video）
+   把 YouTube 链接填进对应部位的引号里。
+   没填时页面显示「Video guide / Coming soon」；填了之后变成带封面的视频卡，点了跳到 YouTube。
+
+2. 单个步骤的视频（stepVideo）
+   填了之后，该步骤图片下面多一个「Watch this step」按钮，点了跳到 YouTube。
+
+3. 步骤实拍图（photo）
+   把照片放进 how-to/photos/，在对应步骤填路径，例如 "photos/fill.jpg"。
+   建议横图 8:5（1280 x 800）。没填时显示线稿图。
+
+步骤名对应：
+  fill 加冰加水 / connect 接管 / remote 遥控器
+  wear-knee、wear-shoulder、wear-hip、wear-foot 四个部位的佩戴
 
 生成二维码
 --------
