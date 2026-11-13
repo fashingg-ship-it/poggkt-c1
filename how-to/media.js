@@ -24,9 +24,16 @@ window.POGGKT_MEDIA = {
     "wear-foot": ""
   },
 
-  // Optional real photo for one step. Put the file in how-to/photos/ and write its path here,
-  // for example "photos/fill.jpg". Landscape 8:5 works best (1280 x 800). Leave "" to keep the drawing.
+  // Pictures. Put the file in how-to/photos/ and write its path here, for example "photos/fill.jpg".
+  // A slot stays empty until its picture is set.
   photo: {
+    // Pad cards on the first page. 6:5 works best (1200 x 1000).
+    "pad-knee": "",
+    "pad-shoulder": "",
+    "pad-hip": "",
+    "pad-foot": "",
+
+    // Step pictures. Landscape 8:5 works best (1280 x 800).
     "fill": "",
     "connect": "",
     "remote": "",

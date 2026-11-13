@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="Hip">
-  <path d="M78 22h84c4 30 14 52 14 82H64c0-30 10-52 14-82z" fill="#c4d6e2"/>
-  <g fill="none" stroke="#c4d6e2" stroke-width="50" stroke-linecap="round">
-    <path d="M91 104l-3 84"/>
-    <path d="M149 104l3 84"/>
-  </g>
-  <rect x="138" y="62" width="56" height="96" rx="18" fill="#1b5f8c"/>
-  <path d="M68 76h74" fill="none" stroke="#113d5c" stroke-width="11" stroke-linecap="round"/>
-</svg>

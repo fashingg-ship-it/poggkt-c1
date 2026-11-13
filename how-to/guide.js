@@ -42,16 +42,19 @@
     slot.parentNode.replaceChild(card, slot);
   }
 
-  // Step pictures: optional real photo, optional step video.
-  var shots = document.querySelectorAll("[data-slot]");
-  for (var i = 0; i < shots.length; i++) {
-    var shot = shots[i];
+  // Picture slots: empty until a photo is set. Steps can also get a video button.
+  function fill(shot) {
     var key = shot.getAttribute("data-slot");
     var photo = ((media.photo || {})[key] || "").trim();
     var clip = ((media.stepVideo || {})[key] || "").trim();
-    var img = shot.querySelector("img");
-    if (photo && img) {
+    if (photo) {
+      var img = el("img");
+      img.alt = shot.getAttribute("data-alt") || "";
+      img.decoding = "async";
+      img.onload = function () { shot.classList.add("has-photo"); };
+      img.onerror = function () { if (img.parentNode) img.parentNode.removeChild(img); };
       img.src = new URL(photo, base).href;
+      shot.appendChild(img);
     }
     if (clip) {
       var btn = outLink("shot-play", clip);
@@ -62,4 +65,7 @@
       shot.parentNode.insertBefore(btn, shot.nextSibling);
     }
   }
+
+  var shots = document.querySelectorAll("[data-slot]");
+  for (var i = 0; i < shots.length; i++) fill(shots[i]);
 })();
